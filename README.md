@@ -1,6 +1,5 @@
 # neon-analog-clock
-Animated analog clock with a glowing core  Built as a beautiful, lightweight web component. Built with HTML, CSS, and JavaScript.
-
+A real-time animated analog clock built with HTML, CSS, and JavaScript featuring a warm gradient design and a smooth floating animation effect.
 
 ## Live Demo
 View Live 🌐
@@ -9,13 +8,11 @@ View Live 🌐
 
 ## Features
 - Real-time analog clock with smooth hand animations
-- Beautiful emerald green theme with glowing radial center
-- Precise hour, minute, and second hands
-- Clean minimalist design with crisp typography
-- Fully responsive across all devices
-- Built with pure HTML, CSS & JavaScript (lightweight & fast)
-- Easy to customize and extend
-- Perfect as a desktop widget, new tab page, or screensaver
+- Levitates up and down giving it a modern and premium feel
+- Dynamic drop shadow beneath the clock that responds to the float effect
+- Warm pink to orange radial gradient clock face
+- Fully responsive and centered layout
+- Built with pure HTML, CSS & JavaScript
 
 
 ## Tech Stack
