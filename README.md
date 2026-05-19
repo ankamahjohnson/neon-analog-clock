@@ -3,7 +3,7 @@ Animated analog clock with a glowing core  Built as a beautiful, lightweight web
 
 
 ## Live Demo
-View Live Analog Clock🌐
+View Live 🌐
 [https://ankamahjohnson.github.io/neon-analog-clock/](https://ankamahjohnson.github.io/neon-analogue-clock/)  
 
 
