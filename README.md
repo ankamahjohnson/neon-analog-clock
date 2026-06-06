@@ -1,5 +1,5 @@
 # neon-analog-clock
-A real-time animated analog clock built with HTML, CSS, and JavaScript featuring a warm gradient design and a smooth floating animation effect.
+A real-time animated analog clock made with HTML, CSS, and JavaScript featuring a warm gradient design and a smooth floating animation effect.
 
 ## Live Demo
 View Live 🌐
